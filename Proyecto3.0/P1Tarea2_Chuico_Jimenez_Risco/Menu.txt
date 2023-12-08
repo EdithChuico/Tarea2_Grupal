@@ -1,0 +1,18 @@
+Menu
+ENTRADAS
+0= Ninguno
+1 = Sopa de pollo ($ 1,50)
+2 = Sopa de verduras ($ 1,50)
+3 = Crema de brocoli ($ 2,50)
+SEGUNDO
+4 = Ninguna 
+5 = Arroz con pollo ($ 1,50)
+6 = Carne apanada ($ 2,00)
+7 = Pollo apanado ($ 2,00)
+8 = Camaron apanado ($ 2,50)
+POSTRES Y BEBIDAS
+9 = Ninguna
+10 = Jugo de naranja ($ 0,50)
+11 = Jugo de limon ($ 0,50)
+12 = Coctel de frutas ($ 3,00)
+13 = Pinia colada ($ 5,00)
